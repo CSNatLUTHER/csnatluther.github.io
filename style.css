@@ -1,0 +1,180 @@
+--body {
+  background-color: grey;
+}
+
+h1{
+  color: grey;
+  font-size: 36
+  font-family: Baskerville, Arial, Helvetica, sans-serif;
+}
+
+h6{
+  color: grey;
+  font-size: 16
+  font-family: Baskerville, Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: white;
+  border: 2px solid black;
+  padding-left: 15px;
+ 
+}
+.footer {
+  background-color: white;
+  border: 2px solid black;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 800px
+}
+.title {
+  background-color: white; 
+}
+.column1 {
+  float: left;
+  width: 300px;
+  padding: 10px;
+  height: 300px;
+  font: white;
+}
+.column2 {
+  float: left;
+  width: 500px;
+  padding: 10px;
+  height: 300px;
+  font: white;
+  text-align: center;
+}
+.overview{
+  text-align: center;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.skills_header {
+  background-color:#bbb;
+  float: left;
+  width: 800px;
+  padding-bottom: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 30px;
+  text-align: center;  
+}
+
+.skills_header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column3 {
+  float: left;
+  width: 400px;
+  padding: 10px;
+  height: 180px;
+  font: white;
+}
+
+.contact{
+  text-align: center;
+  border: 2px white solid;
+  width: 500px;
+}
+.experience_header {
+  background-color:#bbb;
+  float: left;
+  width: 800px;
+  padding-bottom: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 30px;
+  text-align: center;  
+}
+
+.experience_header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column4 {
+  float: left;
+  width: 600px;
+  padding: 10px;
+  height: 30px;
+  font: white;
+}
+.column5 {
+  float: left;
+  width: 200px;
+  padding: 10px;
+  height: 30px;
+
+}
+.job_desc {
+  background-color:#aaa;
+  float: left;
+  width: 800px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 200px; 
+}
+
+.job_desc2 {
+  background-color:#aaa;
+  float: left;
+  width: 800px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 380px; 
+}
+
+.job_desc3 {
+  background-color:#aaa;
+  float: left;
+  width: 800px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 160px; 
+}
+
+
+.education_header {
+  background-color:#bbb;
+  float: left;
+  width: 800px;
+  padding-bottom: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 30px;
+  text-align: center;  
+}
+
+.ed_desc {
+  background-color:#aaa;
+  float: left;
+  width: 800px;
+  padding-right: 20px;
+  padding-left: 20px;
+  height: 50px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
